@@ -1,6 +1,6 @@
 # 🚀 TaskForge
 
-A modern Full Stack Task Management Web Application built with React, Node.js, Express, MySQL, and Tailwind CSS.
+TaskForge is a productivity-focused full-stack web application that enables users to manage tasks, track progress, organize deadlines, analyze productivity, and stay focused using an integrated Pomodoro timer. The application includes secure JWT authentication, calendar integration, profile management, dark mode, and a responsive user interface.
 
 ---
 
